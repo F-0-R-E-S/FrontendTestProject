@@ -1,0 +1,8 @@
+.root {
+    position: sticky;
+    top: 0;
+    background-color: var(--color-body);
+    background-size: cover;
+    z-index: 100;
+  }
+  
